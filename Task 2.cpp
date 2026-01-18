@@ -1,15 +1,12 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 int main()
 {
-	int a, b;
-	cout<<"Enter First Number: "<<endl;
-	cin>>a;
-	cout<<"Enter Second Number: "<<endl;
-	cin>>b;
-	cout<<"Addition="<<a+b<<endl;
-	cout<<"Subtraction="<<a-b<<endl;
-	cout<<"Multiplication="<<a*b<<endl;
-	cout<<"Division="<<a/b<<endl;
+	cout<<"*****************MENU*****************";
+	cout<<"\n1.\tBiryani:\tRs.\t350";
+	cout<<"\n2.\tKarahi:\t\tRs.\t600";
+	cout<<"\n3.\tQorma:\t\tRs.\t500";
+	cout<<"\n4.\tDrinks:\t\tRs.\t100";
+	cout<<"\n**************************************";
 	return 0;
 }

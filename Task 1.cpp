@@ -2,16 +2,16 @@
 using namespace std;
 int main()
 {
-		cout<<"************************************************"<<endl;
-	cout<<"\tName:\t\tAli Safeer\t\t"<<endl;
-	cout<<"\tRoll No:\t2025-SET-46\t\t\t"<<endl;
-	cout<<"\tDepartment:\tSoftware Engineering\t"<<endl;
-	cout<<"\tAddress:\tChella Bandi,Muzaffarabad\t"<<endl;
-	cout<<"\tHobby:\t\tPlaying Football\t\t\t"<<endl;
-	cout<<"\tQualification:\tFsc\t\t\t"<<endl;
-	cout<<"\tSSC Marks:\t860\t\t\t"<<endl;
-	cout<<"\tHSSC Marks:\t660\t\t\t"<<endl;
-	cout<<"************************************************"<<endl;
+	cout<<"--------------------------------------";
+	cout<<"\n";
+	cout<<"\tSTUDENT ID CARD";
+	cout<<"\n";
+	cout<<"--------------------------------------";
+	cout<<"\nName:\t\tAli Safeer";
+	cout<<"\nRoll No:\t123";
+	cout<<"\nDepartment:\tSoftware Engineering";
+	cout<<"\nSession:\t2025-2029";
+	cout<<"\n";
+	cout<<"--------------------------------------";
 	return 0;
-
 }
